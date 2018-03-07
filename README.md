@@ -1,5 +1,5 @@
 # drameSYNTH
-## Teensy3.6 Midi-Synth intend to be like my poliVoks ( but is not )
+## Teensy3.6 Midi-Synth intend to be like my polivoks ( but is not )
 
 I use it as my DRAME-band Polivoks poor-spare...
 
