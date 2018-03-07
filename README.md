@@ -1,9 +1,10 @@
 # drameSYNTH
-## Midi-Synth intend to be like my poliVoks ( but is not )
+## Teensy3.6 Midi-Synth intend to be like my poliVoks ( but is not )
 
 I use it as my DRAME-band Polivoks poor-spare...
 
 It fit inside my "Graphite-49" cheap midi keyboard.
+I use the uart-midi input (but can easily work with usb-midi)
 
 - 1 + 3 VCOs in a sort of duo-phony, several waveforms
 - Chamberlin VCF with Freq & Q
