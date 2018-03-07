@@ -16,6 +16,8 @@ It fit inside my "Graphite-49" cheap midi keyboard.
 
 This massively use the Teensy audio-lib
 
+![alt text](./export/drameSYNTH.jpg)
+
 #### To visualize the synth structure:
 import "guiTool.h" in Audio System Design Tool for Teensy Audio Library
 at https://www.pjrc.com/teensy/gui/index.htm
@@ -23,5 +25,11 @@ at https://www.pjrc.com/teensy/gui/index.htm
 #### Midi Control Change:
 List of controls change ( CC ) in  "midi_CC_patch.h"
 
-
-
+  ```
+     ____     __          ______              _       ____ ___  ___  ___
+    / __/_ __/ /___ _____/_  __/______  ___  (_)___  |_  // _ \/ _ \/ _ \
+   / _// // / __/ // / __// / / __/ _ \/ _ \/ / __/ _/_ </ // / // / // /
+  /_/  \_,_/\__/\_,_/_/  /_/ /_/  \___/_//_/_/\__/ /____/\___/\___/\___/ 
+                                                                         
+with love.
+```
